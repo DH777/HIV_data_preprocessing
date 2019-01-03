@@ -1,0 +1,10 @@
+id	race_grp	curr_gen	dx_stat	trans_grp	test_type	dx_yr	sex_at_birth	age_grp	acute	dt_collected	care_status	viral_suppression	tract_id
+1481	Non-Hispanic Black	Male	Adult AIDS	MSM	PR/RT SEQ	2012	Male	2	No	09/11/2012	N	N	278
+1323	Non-Hispanic Black	Female	Adult HIV	HET	PR/RT SEQ	2012	Female	2	No	06/04/2012	N	Y	85
+1723	Non-Hispanic Black	Female	Adult HIV	HET	PR/RT SEQ	2012	Female	5	No	.	Y	N	318
+2143	Non-Hispanic Black	Female	Adult HIV	HET	PR/RT SEQ	2013	Female	5	No	03/27/2015	Y	N	269
+1373	Non-Hispanic Black	Female	Adult AIDS	HET	PR/RT/IN SEQ	2012	Female	5	No	04/12/2016	Y	Y	246
+1389	Non-Hispanic Black	Male	Adult AIDS	HET	PR/RT SEQ	2012	Male	1	No	06/12/2014	Y	N	85
+1473	Non-Hispanic Black	Female	Adult HIV	HET	PR/RT SEQ	2012	Female	2	No	12/09/2015	N	N	296
+3472	Non-Hispanic Black	Female	Adult HIV	HET	PR/RT SEQ	2016	Female	5	No	02/02/2016	Y	N	39
+3330	Non-Hispanic Black	Female	Adult HIV	HET	PR/RT SEQ	2015	Female	2	No	12/16/2016	Y	Y	77

@@ -1,0 +1,17 @@
+id	race_grp	curr_gen	dx_stat	trans_grp	test_type	dx_yr	sex_at_birth	age_grp	acute	dt_collected	care_status	viral_suppression	tract_id
+3006	Non-Hispanic Black	Male	Adult HIV	MSM	PR/RT SEQ	2015	Male	5	No	04/22/2015	Y	N	329
+1862	Non-Hispanic Black	Male	Adult AIDS	MSM	PR/RT SEQ	2013	Male	5	No	11/30/2016	Y	Y	39
+3221	Non-Hispanic Black	Male	Adult HIV	MSM	PR/RT SEQ	2015	Male	4	Yes	09/30/2015	Y	Y	296
+3498	Non-Hispanic Black	Male	Adult HIV	MSM	PR/RT SEQ	2016	Male	5	No	05/10/2016	N	Y	36
+3622	Hispanic (any race)	Male	Adult AIDS	MSM	PR/RT SEQ	2016	Male	5	No	05/19/2016	N	N	98
+3636	Non-Hispanic Black	Male	Adult HIV	MSM	PR/RT SEQ	2016	Male	2	No	09/27/2016	N	N	95
+3761	Non-Hispanic Black	Male	Adult HIV	MSM	PR/RT/IN SEQ	2016	Male	2	No	08/09/2016	Y	Y	14
+3874	Non-Hispanic Black	Male	Adult AIDS	MSM	PR/RT SEQ	2016	Male	5	No	11/16/2016	Y	N	114
+8575	Non-Hispanic Black	Male	Adult AIDS	MSM	PR/RT SEQ	2016	Male	5	No	09/25/2017	Y	N	114
+9760	Non-Hispanic Black	Male	Adult HIV	OTHER	PR/RT SEQ	2017	Male	5	No	12/27/2017	Y	N	50
+2310	Non-Hispanic Black	Male	Adult HIV	MSM	PR/RT SEQ	2013	Male	1	No	03/14/2014	Y	Y	332
+7091	Non-Hispanic Black	Male	Adult HIV	MSM	PR/RT SEQ	2009	Male	4	No	05/26/2015	Y	Y	3
+8459	Non-Hispanic Black	Male	Adult HIV	MSM	PR/RT/IN SEQ	2014	Male	2	No	10/05/2017	Y	N	143
+2670	Non-Hispanic Black	Male	Adult HIV	MSM	PR/RT SEQ	2014	Male	5	No	09/30/2014	N	N	84
+2793	Non-Hispanic Black	Other	Adult HIV	MSM	PR/RT SEQ	2014	Male	4	No	12/10/2014	Y	Y	176
+2945	Hispanic (any race)	Male	Adult AIDS	MSM	PR/RT SEQ	2015	Male	5	No	03/10/2015	Y	Y	114

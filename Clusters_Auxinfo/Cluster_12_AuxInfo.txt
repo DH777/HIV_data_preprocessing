@@ -1,0 +1,13 @@
+id	race_grp	curr_gen	dx_stat	trans_grp	test_type	dx_yr	sex_at_birth	age_grp	acute	dt_collected	care_status	viral_suppression	tract_id
+7776	Other	Male	Adult HIV	MSM/IDU	PR/RT/IN SEQ	2017	Male	5	No	03/01/2017	N	Y	305
+2613	Non-Hispanic Black	Female	Adult HIV	IDU	PR/RT SEQ	2014	Female	2	No	07/29/2016	Y	Y	312
+2894	Non-Hispanic White	Female	Adult HIV	IDU	PR/RT SEQ	2015	Female	2	No	03/15/2015	Y	Y	167
+3368	Non-Hispanic Black	Male	Adult AIDS	IDU	PR/RT SEQ	2015	Male	3	No	12/04/2015	N	N	234
+3466	Non-Hispanic White	Female	Adult HIV	IDU	PR/RT SEQ	2016	Female	2	No	05/20/2016	Y	Y	244
+3745	Hispanic (any race)	Female	Adult HIV	HET	PR/RT SEQ	2016	Female	6	No	08/10/2016	Y	Y	320
+3840	Non-Hispanic White	Male	Adult HIV	IDU	PR/RT/IN SEQ	2016	Male	1	No	08/23/2016	Y	Y	
+7657	Hispanic (any race)	Female	Adult HIV	IDU	PR/RT SEQ	2004	Female	4	No	12/21/2016	Y	N	27
+2084	Non-Hispanic Black	Female	Adult HIV	HET	PR/RT SEQ	2013	Female	6	No	07/25/2013	Y	Y	89
+3732	Non-Hispanic White	Female	Adult HIV	IDU	PR/RT SEQ	2016	Female	5	No	07/12/2016	Y	N	328
+7157	Hispanic (any race)	Male	Adult HIV	HET	PR/RT SEQ	2010	Male	6	No	03/23/2010	Y	Y	220
+7700	Non-Hispanic White	Female	Adult HIV	IDU	PR/RT SEQ	2016	Female	2	No	11/04/2016	Y	N	310
